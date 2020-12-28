@@ -1,6 +1,10 @@
 ## Welcome to my profile
 
-#### I'm Nathaniel, a full-stack developer and software engineer 
+#### I'm Nathaniel, a full-stack developer and software engineer.
+
+I work as a Web Developer but I like to do all things when it comes to programming. One day I will be making a game in **Unity** with **c#** and the next I will be automating my life with **Python**. 
+
+If you would like to get in touch please email me [Here](mailto:nathanielredmon@gmail.com)
 
 ### Things I like to do when i'm not sitting at my computer: 
 :racing_car: **Track Days** <br>

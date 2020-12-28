@@ -11,9 +11,6 @@ Hey I'm Nathaniel, I work primarily as a Web Developer but I enjoy doing and lea
 :hiking_boot: **Hiking** <br />
 :chart_with_downwards_trend: **losing money in the stock market** <br />
 
-___
-
-
 # Technologies I use
 
 ![Technologies](./technologies.png)

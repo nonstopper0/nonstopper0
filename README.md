@@ -16,6 +16,6 @@ ___
 ___
 
 
-#### Technologies I like to use
+#### Technologies I use
 
 ![Technologies](./technologies.png)

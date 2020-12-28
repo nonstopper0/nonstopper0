@@ -1,7 +1,7 @@
 
-# Nathaniel Redmon | full-stack developer and software engineer.
+# Nathaniel Redmon | Full-Stack Developer and Software Engineer.
 
-I work primarily as a Web Developer but I enjoy doing and learning all things when it comes to programming. One day I will be making a game in **Unity** with **c#** and the next I will be automating my life with **Python**. <br />
+Hey I'm Nathaniel, I work primarily as a Web Developer but I enjoy doing and learning all things when it comes to programming. A regular off-day consists of me working on my game in **Unity** with **c#**, finding a way to automate my life with **Python**, and working on a web application with **Javascript** <br />
 
 #### Check out my Website [Here](https://nathanielredmon.com)
 

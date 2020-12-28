@@ -6,9 +6,7 @@ Hey I'm Nathaniel, I work primarily as a Web Developer but I enjoy doing and lea
 :computer_mouse:[My Website](https://nathanielredmon.com) <br />
 :e-mail:[Email Me](mailto:nathanielredmon@gmail.com) <br />
 
-___
-
-#### Things I like to do when i'm not sitting at my computer: 
+# Things I like to do when i'm not sitting at my computer: 
 :racing_car: **Track Days** <br />
 :hiking_boot: **Hiking** <br />
 :chart_with_downwards_trend: **losing money in the stock market** <br />
@@ -16,6 +14,6 @@ ___
 ___
 
 
-#### Technologies I use
+# Technologies I use
 
 ![Technologies](./technologies.png)
